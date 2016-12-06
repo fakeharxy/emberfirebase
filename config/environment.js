@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'focusjournal',
+    firebase: "https://focusjournal-3215e.firebaseio.com",
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
